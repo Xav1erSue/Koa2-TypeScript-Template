@@ -7,6 +7,8 @@ import 'reflect-metadata';
 import { protectedRouter, unprotectedRouter } from './router';
 import { logger } from './MiddleWare/logger';
 import dotenv from 'dotenv'
+import errorHandler from '@/MiddleWare/errorHandler';
+
 dotenv.config({ path: '.env' })
 
 const app = new Koa();
@@ -14,6 +16,7 @@ createConnection()
   .then(() => {
     // 初始化 Koa 应用实例
     app
+      .use(errorHandler)
       .use(logger())
       .use(
         cors({
