@@ -2,24 +2,17 @@
   "compilerOptions": {
     "target": "es2015",
     "module": "commonjs",
-    "lib": [
-      "es6"
-    ],
-    "sourceMap": false,
+    "lib": ["es6"],
     "outDir": "./dist",
-    "declaration": true,
     "noImplicitAny": true,
     "strictNullChecks": false,
     "moduleResolution": "node",
     "allowJs": true,
-    "noEmit": true,
     "strict": false,
     "isolatedModules": true,
     "baseUrl": "./",
     "paths": {
-      "@/*": [
-        "src/*"
-      ]
+      "@/*": ["src/*"]
     },
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
@@ -27,12 +20,9 @@
     "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "suppressImplicitAnyIndexErrors": true
+    "suppressImplicitAnyIndexErrors": true,
+    "removeComments": true
   },
-  "include": [
-    "src/**/*.ts"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
 }

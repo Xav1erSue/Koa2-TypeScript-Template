@@ -1,0 +1,807 @@
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:11:16: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:03: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:04: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:04: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:04: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:04: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:04: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:04: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:05: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:05: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:05: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:05: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:05: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:05: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:25: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:25: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:25: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:25: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:25: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:12:25: TypeORM connection error: Error: getaddrinfo ENOTFOUND undefined
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'undefined',
+  fatal: true
+}
+2022-04-01 15:15:47: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:15:47: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:15:47: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:15:48: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:15:48: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:15:48: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:15:48: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:15:48: TypeORM connection error: Error: getaddrinfo ENOTFOUND http://localhost
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:72:26)
+    --------------------
+    at Protocol._enqueue (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:903:18
+    at new Promise (<anonymous>)
+    at MysqlDriver.createPool (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:900:16)
+    at MysqlDriver.<anonymous> (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/typeorm/driver/mysql/MysqlDriver.js:301:51)
+    at step (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:143:27)
+    at Object.next (/Users/xav1er/Documents/WorkSpace/backend/Koa2-TypeScript-Template/node_modules/tslib/tslib.js:124:57) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'http://localhost',
+  fatal: true
+}
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:13: Koa server is running at http://localhost:8080/
+2022-04-01 15:16:21: POST /auth/login 200 - 25ms
