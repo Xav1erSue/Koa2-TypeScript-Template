@@ -14,6 +14,19 @@ yarn
 yarn start
 ```
 
+文件接口将文件储存在本地，需要自行建立文件夹
+
+```
+Serve
+ ├── Koa2-TypeScript-Template
+ │	├── src
+ │	├── ...
+ │	└── README.md
+ └── public # 自行建立
+    └── uploads # 自行建立
+      	└── ...png # 上传的文件会放到这里
+```
+
 ## Build
 
 ```bash
