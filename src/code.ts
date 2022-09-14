@@ -1,0 +1,10 @@
+export enum Code {
+  SUCCESS = 2000,
+  // 用户相关
+  USER_ALREADY_EXIST = 40001,
+  USER_NOT_FOUND = 40002,
+  PASSWORD_ERROR = 40003,
+  TOKEN_INVALID = 40004,
+  // 答题相关
+  PROBLEM_MISSING = 41001
+}

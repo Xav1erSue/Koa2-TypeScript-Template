@@ -11,8 +11,8 @@ export default class AuthController {
 
   // 注册用户
   public static async register(ctx: Context) {
-    const { username, phoneNumber, password } = ctx.request.body;
-    const result = await AuthServices.register(username, phoneNumber, password);
+    const { username, password } = ctx.request.body;
+    const result = await AuthServices.register(username, password);
     ctx.body = result;
   }
 

@@ -12,11 +12,12 @@ module.exports = {
       error_file: 'logs/err.log',
       out_file: 'logs/out.log',
       log_date_format: 'YYYY-MM-DD HH:mm:ss',
-      merge_logs: true,
+      merge_logs: false,
       env_production: {
         NODE_ENV: 'production',
         PORT: 8080
-      }
+      },
+      ignore_watch: ['logs'] //忽略监听log文件夹
     }
   ]
 };

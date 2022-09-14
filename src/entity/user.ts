@@ -13,6 +13,7 @@ export default class User {
 
   @Column()
   username: string;
+
   // 查询时默认不被选中
   @Column({
     select: false,
@@ -20,8 +21,25 @@ export default class User {
   })
   password: string;
 
-  @Column()
-  phoneNumber: string;
+  @Column({
+    default: ''
+  })
+  avatar: string;
+
+  @Column({
+    default: ''
+  })
+  birthday: string;
+
+  @Column({
+    default: 0
+  })
+  sex: number;
+
+  @Column({
+    default: ''
+  })
+  nickname: string;
 
   @CreateDateColumn()
   createdAt: Date;
